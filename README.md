@@ -1,5 +1,5 @@
 # tecnoUAB_demo
-Repository for demo purposes
+Repository for demo purposes - Use the demo repository to learn the basics of git and github
 
 Here you can find the presentation:
 <br />
